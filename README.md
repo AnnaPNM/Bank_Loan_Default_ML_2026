@@ -3,4 +3,5 @@ Current repository presents the result of team "Financial predictors" work in Sk
 
 
 Link for the EDA preprocessed training and test data files: 
+
 https://drive.google.com/drive/folders/154rtT1QPJjiS-4HCxboi_grAZ_9hjYud?usp=sharing 
